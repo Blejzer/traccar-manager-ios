@@ -2,7 +2,7 @@ repo_name: Blejzer/traccar-manager-ios
 report_id: d4c87904b1de69ab2229ff0e52498b77
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-01T07:40:54+00:00'
+timestamp: '2024-02-29T19:48:47+00:00'
 requested_by: tananaev
 provider: github
 branch: master
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/Blejzer/traccar-manager-ios
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
